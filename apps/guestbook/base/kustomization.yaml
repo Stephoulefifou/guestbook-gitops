@@ -15,4 +15,4 @@ resources:
 images:
   - name: guestbook
     newName: ghcr.io/stephoulefifou/guestbook-gitops
-    newTag: main-63115db
+    newTag: main-23ac7de
